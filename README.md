@@ -62,9 +62,6 @@
 
 Сертификат доступен по ссылке https://lab.karpov.courses/certificate/fb3855f6-98eb-4cfa-bcdc-edd81bf15bb9/
 
-![image](https://github.com/S1lencena/S1lencena/assets/140109674/15c10bcf-8e74-4a3d-861e-6bb603078e28)
+![image](https://github.com/S1lencena/S1lencena/assets/140109674/034b770c-b414-43f6-91e3-2481d67337c9)
 
 Сертификат доступен по ссылке https://stepik.org/cert/2099305
-
-
-
