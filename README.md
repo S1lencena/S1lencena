@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Привет! Меня зовут Елена:blush:</h1>
+    <h1>Привет! Меня зовут Елена👋🏻</h1>
 
 <div id="socials" align="center">
 <a href="mailto:elenavinogradova704@gmail.com">
